@@ -16,4 +16,9 @@ ukelele`.
 The dead key `¨` for Umlaute like `ä, ü, ö` and their uppercase variants are tedious to type. Since I'm a native german
 speaker I use them a lot.
 
+## Ressources
+
+- [wikipedia](https://de.wikipedia.org/wiki/Tastaturbelegung_US-International)
+- [symbolsdb](https://symbolsdb.com/) for symbols
+- [compart](https://www.compart.com/de/unicode/) for symbols
 
